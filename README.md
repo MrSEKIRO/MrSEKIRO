@@ -3,9 +3,9 @@
 ![image](https://github.com/MrSEKIRO/MrSEKIRO/assets/74832964/5d1c6544-8e72-4ae0-8e96-6122ed4f06f1)
 
 - 🔭 I’m currently working on c# and asp.net core
-- 📏 I have a deep knowledge in software architecture style and patterns
-- 🌱 I’m currently learning network security
-- 👯 I’m looking to collaborate on BPMS project
+- 📏 I have a deep knowledge of software architecture style and patterns
+- 🌱 I`m enthusiastic about learning network security
+- 👯 I have experience collaborating on the BPMS project
 - 💬 Ask me about c# =)
 - 🗡 Fun fact: SEKIRO Fan
 
